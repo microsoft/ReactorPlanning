@@ -10,7 +10,7 @@ assignees: ''
 # Event Information
 | Category | Details |
 |-----------|---------|
-| Reactor Topic | [AI Services - Coding, Languages, and Frameworks - DevOps and Dev Tools - IoT - Mixed Reality - Cloud Development - Data Science and Machine Learning - Emerging Technologies - Personal and Business Development] |
+| Reactor Topic | <AI Services - Coding, Languages, and Frameworks - DevOps and Dev Tools - IoT - Mixed Reality - Cloud Development - Data Science and Machine Learning - Emerging Technologies - Personal and Business Development> |
 | Monthly Topic (if applicable) | <Topic taken from [Azure Dev Marketing](https://aka.ms/DevEdCalFY21H1)> |
 | Weekly Topic (if applicable) | <Topic decided by RCT if relevant> |
 | Stream Topic | <2-5 words describing the topic> |
