@@ -40,7 +40,7 @@ Additional Resources:
 - [ ] RCT moves the issue to the __Ready for SharePoint__ column
 - [ ] RCT informs the Reactor Marketing Team of the new event information
 - [ ] RCT provides speaker with assets (e.g. slides, overlays) and the survey data for the event
-- [ ] RCT moves the issue to the __Stream Preparation In Progress__ column
+- [ ] RCT moves the issue to the __MONTH Streams Prep__ column (according to the month it will be streamed in)
 
 ## 2 Weeks Prior *(Done in /microsoft/Reactors)*
 - [ ] Speaker opens a PR with the new content for the stream on the [customer-facing Reactor repository](https://github.com/microsoft/Reactors) and adds the _content-development_ and _global-twitch-event_ tag to the PR. 
