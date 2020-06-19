@@ -23,18 +23,18 @@ assignees: ''
 | Date |  Local Start Time |  Location |  Speaker | SharePoint ID | Platform |
 |------|-------------------|-----------|----------|---------------|----------|
 
-
 # Event Checklist
 
 ## 10 Weeks Prior
 - [ ] Reactor Content Team (RCT) opens a new issue for an upcoming local workshop filling in the Event Information and Workshop details tables. RCT member who owns content (content owner) this week will be the assignee.
-- [ ] RCT and content owner discuss details of the event in the comments of this issue. RCT adds a _confirmed-event_ label and _local-teams-event_ tag to the issue and adds event to the __Local Live Streams__ project. Issue will appear in the __Upcoming Streams__ column
-- [ ] Confirm instructor for weekly workshops
+- [ ] RCT and content owner discuss details of the event in the comments of this issue. RCT adds a _confirmed-event_ label and _local-digital-event_ tag to the issue and adds event to the __Local Digital Events__ project. Issue will appear in the __Upcoming Streams__ column
+- [ ] Speaker adds a _ready-for-marketing-edit_ label so the RCT can review title and description
 
 ## 8 Weeks Prior
-- [ ] RCT does a review of title and description
-- [ ] RCT moves the issue to the __Ready for Marketing__ column
+- [ ] RCT does a review of title and description and removes the _ready-for-marketing-edit_ label 
+- [ ] RCT moves the issue to the __Ready for SharePoint__ column
 - [ ] RCT informs the Reactor Marketing Team of the new event information
+- [ ] RCT provides speaker with assets (e.g. slides, overlays) and the survey data for the event
 - [ ] RCT moves the issue to the __Content Preparation In Progress__ column
 
 ## 5 weeks Prior
@@ -48,7 +48,9 @@ assignees: ''
 ## 1 Week Prior
 - [ ] Connect vendor/instructor with the PM(s) for the locations where this event has been marketed
 - [ ] Check-in with vendor/instructor that they are prepared for the workshop
+- [ ] RCT moves the issue to the __Ready to Stream__ column
 
 ## During and After Stream
 - [ ] Instructor (and optional moderator) run the stream
+- [ ] _(Optional)_RCT submits recording to be uploaded to the Reactor YouTube and to be made available on LearnTV
 - [ ] RCT moves issue to the __Stream Complete__ column
