@@ -46,7 +46,7 @@ Additional Resources:
 - [ ] Speaker opens a PR with the new content for the stream on the [customer-facing Reactor repository](https://github.com/microsoft/Reactors) and adds the _content-development_ and _global-twitch-event_ tag to the PR. 
 - [ ] Speaker adds to the same PR a modification to the [Streaming README](https://github.com/microsoft/Reactors/tree/main/Online) to include their stream information.
 - [ ] Speaker adds the RCT assigned to the issue as the reviewer when it is ready for review/merge
-- [ ] RCT reviews, approves, and merges the changes and the PR moves to the __Stream Complete__ column
+- [ ] RCT reviews, approves, and merges the changes
 
 ## 1 Week Prior
 - [ ] Speaker and Moderator test setup for streaming (instructions coming soon)
