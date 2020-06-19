@@ -36,7 +36,7 @@ Additional Resources:
 - [ ] Speaker adds a _ready-for-marketing-edit_ label so the RCT can review title and description
 
 ## 8 Weeks Prior
-- [ ] RCT does a review of title and description
+- [ ] RCT does a review of title and description and removes the _ready-for-marketing-edit_ label 
 - [ ] RCT moves the issue to the __Ready for SharePoint__ column
 - [ ] RCT informs the Reactor Marketing Team of the new event information
 - [ ] RCT provides speaker with assets (e.g. slides, overlays) and the survey data for the event
