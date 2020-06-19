@@ -28,12 +28,13 @@ assignees: ''
 ## 10 Weeks Prior
 - [ ] Reactor Content Team (RCT) opens a new issue for an upcoming local workshop filling in the Event Information and Workshop details tables. RCT member who owns content (content owner) this week will be the assignee.
 - [ ] RCT and content owner discuss details of the event in the comments of this issue. RCT adds a _confirmed-event_ label and _local-digital-event_ tag to the issue and adds event to the __Local Digital Events__ project. Issue will appear in the __Upcoming Streams__ column
-- [ ] Speaker adds a _ready-for-marketing-edit_ label so the RCT can review title and description
+- [ ] RCT adds a _ready-for-marketing-edit_ label so the RCT can review title and description
 
 ## 8 Weeks Prior
 - [ ] RCT does a review of title and description and removes the _ready-for-marketing-edit_ label 
 - [ ] RCT moves the issue to the __Ready for SharePoint__ column
 - [ ] RCT informs the Reactor Marketing Team of the new event information
+- [ ] RCT confirms the speaker
 - [ ] RCT provides speaker with assets (e.g. slides, overlays) and the survey data for the event
 - [ ] RCT moves the issue to the __Content Preparation In Progress__ column
 
