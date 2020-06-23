@@ -18,6 +18,7 @@ Welcome! This repository will be tracking the planning for digital and in-person
 |  | Aug 31 - Sep 3 | Typescript | @geektrainer | 
 |  | September 7-10 | Rust | @meaghanlewis | 
 |  | September 14-17 | DevOps | @sguthals | 
+|  | September 21-25 | Azure Static Web Apps | @geektrainer |
 |  | Sep 28 - Oct 1 | Blockchain | @meaghanlewis | 
 | Ocotber - Open Source October |  |  |  | 
 |  | October 5-8 | Visual Studio Code | @meaghanlewis | 
