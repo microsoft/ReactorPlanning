@@ -1,3 +1,22 @@
+# Reactor Planning Repository
+Welcome! This repository will be tracking the planning for digital and in-person Reactor events. 
+
+## I want to speak at a Reactor event
+Great! A lot of our events have fixed dates/times, but we often have openings on those dates/times for speakers! We require 8-weeks advnaced notice of all new events to be able to market them properly. 
+
+To get started, check out all of the [Issues where help is wanted](https://github.com/microsoft/ReactorPlanning/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22). 
+
+### I have a specific topic I want to teach
+Sometimes you will find events that don't have a topic or a title, for those, you're welcome to comment on the issue with the topic you're interested in teaching/speaking on! Make sure you read through the issue to see if there is any guidance on the topics.
+
+### I'm up for teaching anything I have expertise on
+Sometimes you will find events that have a specific topic or even a title/description. Because of our 8-week demand gen lead time, we sometimes have to create titles/descriptions even if we haven't found a great speaker yet. For these, we are looking for folks interested in teaching that specific topic. 
+
+### I'd like to propose a date/time that doesn't exist
+Great! Please feel free to open an issue using one of the issue templates so that we can start the process!
+
+
+
 
 # Contributing
 
