@@ -1,4 +1,4 @@
-# Reactor Planning Repository
+# Reactor Event Planning Repository
 Welcome! This repository will be tracking the planning for digital and in-person Reactor events. 
 
 ## General Schedule
