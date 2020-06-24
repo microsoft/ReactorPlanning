@@ -1,7 +1,14 @@
-# Reactor Event Planning Repository
+# Reactor Event and Content Planning Repository
 Welcome! This repository will be tracking the planning for digital and in-person Reactor events. 
 
-## General Schedule
+# Event Planning
+Reactors hold events both in-person and digitally. As of Summer 2020, all events are currently being help digitally. This is a combination of Global Live Twitch Streams and Local Live Teams Events. To better partner with the rest of the Azure Developer and Cloud Advocacy teams, we are aligning our topics to the [Azure Developer Marketing Calendar](https://aka.ms/DevEdCalFY21H1). 
+
+In this README, you can find the following regarding events:
+- General Event Schedule of topics that aligns to the [Azure Developer Marketing Calendar](https://aka.ms/DevEdCalFY21H1)
+- FAQ on how to sign up to run/speak at a Reactor Event
+
+## General Event Schedule
 | Month - Topic | Week | Topic | Reactor TPM Owner |
 |---------------|------|-------|-------------------|
 | July - Connecting with our world through data |  |  |  | 
@@ -50,6 +57,27 @@ Sometimes you will find events that have a specific topic or even a title/descri
 ### I'd like to propose a date/time that doesn't exist
 Great! Please feel free to open an issue using one of the issue templates so that we can start the process!
 
+# Reactor Content Development
+Part of the mission of the Reactors is to create lasting content for developers to be able to refer back and continue their learning journeys. The customer facing content will reside on a number of Microsoft platforms, depending on the goal of that piece of content. This repository will track the development of new content regardless of it's target platform destination. 
+
+## Microsoft Learn Modules
+[Microsoft Learn](https://docs.microsoft.com/en-us/learn/) is a learning platform that consists mainly of tutorial-like content. This is an ideal target platform for Reactor content that is:
+- Reference material for further learning before, furing, or after an event
+- Material that is covered in Reactor events that builds upon content that already exists in the Microsoft Learn ecosytem
+
+The business goals of publishing content to Microsoft Learn are to:
+- Provide customers an entry point to additional Reactor content on Microsoft Learn through embedded references in modules
+- Provide customers an entry point to Microsoft Learn through Reactor events and marketing
+- Ensure Reactor content fits within the larger Microsoft learning framework
+- Provide customers with a clearer pathway through Microsoft learning content
+
+### Reactor Learn Modules
+| Module or Learning Path Title | Duration | Reactor TPM and Author | Date Published | Technologies Refrenced | Live Learn Link |
+|-------------------------------|----------|------------------------|----------------|------------------------|-----------------|
+
+
+### How do I get started with creating content on Microsoft Learn?
+This process, from the Reactor point of view, is still being defined. While reference material that will generally support Reactor events is of interested, we are also dedicated to creating content and experiences on the Microsoft Learn platform that is more interactive and could be used during instructor-led events. The best option at the moment is to create a new [Learn Module Tracking Issue](https://github.com/microsoft/ReactorPlanning/issues/new?assignees=&labels=content-development%2C+learn&template=learn-module-tracking-issue.md&title=Topic+-+Est+Publish+Date) and follow the steps there!
 
 
 
