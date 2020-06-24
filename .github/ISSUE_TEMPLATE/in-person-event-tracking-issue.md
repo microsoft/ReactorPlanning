@@ -2,7 +2,7 @@
 name: In-Person Event Tracking Issue
 about: For a single Local in-person Reactor Events
 title: Date - Topic - Location
-labels: 'in-person-local-event'
+labels: in-person-local-event
 assignees: ''
 
 ---

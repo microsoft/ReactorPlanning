@@ -2,11 +2,10 @@
 name: Local Digital Event Tracking Issue
 about: For a Local digital Reactor Event
 title: Week - Topic
-labels: 'local-digital-event'
+labels: local-digital-event
 assignees: ''
 
 ---
-
 
 # Event Information
 | Category | Details |
