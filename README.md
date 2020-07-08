@@ -18,7 +18,7 @@ In this README, you can find the following regarding events:
 |  | July 27-30 | All About Bots | @geektrainer | 
 | August - Powerful APIs and power Platform |  |  |  | 
 |  | August 3-6 | Blockchain | @meaghanlewis | 
-|  | August 10-13 | CosmosDB for the Dev | @geektrainer | 
+|  | August 10-13 | Azure Static Web Apps | @geektrainer | 
 |  | August 17-20 | Azure APIs | @sguthals | 
 |  | August 24-27 | Azure and Power Platform | @sguthals | 
 | September - Skill up September |  |  |  | 
