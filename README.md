@@ -1,14 +1,18 @@
 # Reactor Event and Content Planning Repository
-Welcome! This repository will be tracking the planning for digital and in-person Reactor events. 
 
-# Event Planning
-Reactors hold events both in-person and digitally. As of Summer 2020, all events are currently being help digitally. This is a combination of Global Live Twitch Streams and Local Live Teams Events. To better partner with the rest of the Azure Developer and Cloud Advocacy teams, we are aligning our topics to the [Azure Developer Marketing Calendar](https://aka.ms/DevEdCalFY21H1). 
+Welcome! This repository will be tracking the planning for digital and in-person Reactor events.
+
+## Event Planning
+
+Reactors hold events both in-person and digitally. As of Summer 2020, all events are currently being help digitally. This is a combination of Global Live Twitch Streams and Local Live Teams Events. To better partner with the rest of the Azure Developer and Cloud Advocacy teams, we are aligning our topics to the [Azure Developer Marketing Calendar](https://aka.ms/DevEdCalFY21H1).
 
 In this README, you can find the following regarding events:
+
 - General Event Schedule of topics that aligns to the [Azure Developer Marketing Calendar](https://aka.ms/DevEdCalFY21H1)
 - FAQ on how to sign up to run/speak at a Reactor Event
 
 ## General Event Schedule
+
 | Month - Topic | Week | Topic | Reactor TPM Owner | Exceptions |
 |---------------|------|-------|-------------------|------------|
 | July - Connecting with our world through data |  |  |  |  |
@@ -49,44 +53,51 @@ In this README, you can find the following regarding events:
 |  | January 25-28 | TBD | TBD |  |
 
 ## I want to speak at a Reactor event
+
 Great! A lot of our events have fixed dates/times, but we often have openings on those dates/times for speakers! We require 8-weeks advnaced notice of all new events to be able to market them properly. 
 
-To get started, check out all of the [Issues where help is wanted](https://github.com/microsoft/ReactorPlanning/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22). 
+To get started, check out all of the [Issues where help is wanted](https://github.com/microsoft/ReactorPlanning/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22).
 
 ### I have a specific topic I want to teach
+
 Sometimes you will find events that don't have a topic or a title, for those, you're welcome to comment on the issue with the topic you're interested in teaching/speaking on! Make sure you read through the issue to see if there is any guidance on the topics.
 
 ### I'm up for teaching anything I have expertise on
-Sometimes you will find events that have a specific topic or even a title/description. Because of our 8-week demand gen lead time, we sometimes have to create titles/descriptions even if we haven't found a great speaker yet. For these, we are looking for folks interested in teaching that specific topic. 
+
+Sometimes you will find events that have a specific topic or even a title/description. Because of our 8-week demand gen lead time, we sometimes have to create titles/descriptions even if we haven't found a great speaker yet. For these, we are looking for folks interested in teaching that specific topic.
 
 ### I'd like to propose a date/time that doesn't exist
+
 Great! Please feel free to open an issue using one of the issue templates so that we can start the process!
 
-# Reactor Content Development
-Part of the mission of the Reactors is to create lasting content for developers to be able to refer back and continue their learning journeys. The customer facing content will reside on a number of Microsoft platforms, depending on the goal of that piece of content. This repository will track the development of new content regardless of it's target platform destination. 
+## Reactor Content Development
+
+Part of the mission of the Reactors is to create lasting content for developers to be able to refer back and continue their learning journeys. The customer facing content will reside on a number of Microsoft platforms, depending on the goal of that piece of content. This repository will track the development of new content regardless of it's target platform destination.
 
 ## Microsoft Learn Modules
+
 [Microsoft Learn](https://docs.microsoft.com/en-us/learn/) is a learning platform that consists mainly of tutorial-like content. This is an ideal target platform for Reactor content that is:
+
 - Reference material for further learning before, furing, or after an event
 - Material that is covered in Reactor events that builds upon content that already exists in the Microsoft Learn ecosytem
 
 The business goals of publishing content to Microsoft Learn are to:
+
 - Provide customers an entry point to additional Reactor content on Microsoft Learn through embedded references in modules
 - Provide customers an entry point to Microsoft Learn through Reactor events and marketing
 - Ensure Reactor content fits within the larger Microsoft learning framework
 - Provide customers with a clearer pathway through Microsoft learning content
 
 ### Reactor Learn Modules
+
 | Module or Learning Path Title | Duration | Reactor TPM and Author | Date Published | Technologies Refrenced | Live Learn Link |
 |-------------------------------|----------|------------------------|----------------|------------------------|-----------------|
 
-
 ### How do I get started with creating content on Microsoft Learn?
+
 This process, from the Reactor point of view, is still being defined. While reference material that will generally support Reactor events is of interested, we are also dedicated to creating content and experiences on the Microsoft Learn platform that is more interactive and could be used during instructor-led events. The best option at the moment is to create a new [Learn Module Tracking Issue](https://github.com/microsoft/ReactorPlanning/issues/new?assignees=&labels=content-development%2C+learn&template=learn-module-tracking-issue.md&title=Topic+-+Est+Publish+Date) and follow the steps there!
 
-
-
-# Contributing
+## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
@@ -100,7 +111,7 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
-# Legal Notices
+## Legal Notices
 
 Microsoft and any contributors grant you a license to the Microsoft documentation and other content
 in this repository under the [Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/legalcode),
