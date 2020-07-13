@@ -27,5 +27,21 @@ If you are using your laptop to stream, chances are the built-in camera is perfe
 
 Good lighting is as important to focus and clarity as the camera. Low or poor lighting means the camera needs to struggle to focus, or will use a higher [ISO value](https://photographylife.com/what-is-iso-in-photography) leading to fuzzier images. Investing in special lighting isn't necessary, but it will improve the quality of the stream. Regardless of the lighting source you choose, keep in mind back-lighting (having the light source behind or to the side of you) will cause the shot to be dark.
 
-- Ring light
+- Ring lights, which are available all over Amazon for under $50.
 - [Elgato Key Light](https://www.elgato.com/gaming/key-light) (~ $200) (You will want two to avoid shadows)
+
+## Computer
+
+While no special hardware is required for streaming, you will find your experience will be enhanced if you meet an additional couple of prerequisites.
+
+### Dual monitors
+
+Having a second monitor will allow you to share one screen while using the second to keep an eye on how the stream running, questions coming in, and managing scene transitions.
+
+### Discrete GPU (dGPU)
+
+A dGPU is a [GPU](https://en.wikipedia.org/wiki/Graphics_processing_unit) with its own dedicated memory and processing board. Many laptops, however, use an [integrated GPU](https://www.techdim.com/what-is-integrated-graphics-card/), meaning resources are shared. Because streaming can be a graphics intensive operation, you may want to consider a device with a dGPU such as a Surface Book or a desktop PC.
+
+### Wired internet
+
+As we all know, wireless networks are convenient but finnicky. For best performance and stability, it's strongly recommended your streaming device be hardwired to your network.

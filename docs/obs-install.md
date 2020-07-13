@@ -2,9 +2,13 @@
 
 OBS Studio is a professional level streaming suite. OBS Studio (or just OBS) gives you the ability to build various scenes, control your camera and microphone, choose what to share, and broadcast to numerous platforms including Twitch, YouTube and Teams Live.
 
+## Before you get started
+
+Before you get started, you will need a stream key. Please contact the program manager you're working with to obtain the key.
+
 ## Hardware requirements
 
-While OBS requires no special hardware, it can be rather resource intensive. You will typically be using a camera when broadcasting, working with your normal development tools (which can also be resource intensive), and then streaming through OBS. It's strongly recommended you use a system with a [discrete GPU](https://www.howtogeek.com/414201/how-to-check-what-graphics-card-gpu-is-in-your-pc/) (a dedicated card as opposed to one which uses your system's RAM).
+While OBS requires no special hardware, it can be rather resource and you may want a second monitor. We've provided some [suggestions for the computer to use for streaming](hardware.md#Computer).
 
 ## Installation
 
