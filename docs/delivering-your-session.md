@@ -32,7 +32,7 @@ Couple of last notes to keep in mind
 ### Closing
 
 - Thank everyone
-- Highlight the [Reactor YouTube channel](https://www.youtube.com/channel/UCkm6luGCS3hD25jcEhvRMIA)
+- Highlight the [Reactor YouTube channel](https://youtube.com/microsoftreactor)
 - Highlight any additional resources
 - You're welcome to plug your social media handles
 - Display the closing slide for one minute
