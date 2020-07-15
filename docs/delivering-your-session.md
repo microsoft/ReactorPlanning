@@ -31,7 +31,7 @@ Couple of last notes to keep in mind
 
 ### Closing
 
-- Thank ever
+- Thank everyone
 - Highlight the [Reactor YouTube channel](https://www.youtube.com/channel/UCkm6luGCS3hD25jcEhvRMIA)
 - Highlight any additional resources
 - You're welcome to plug your social media handles
