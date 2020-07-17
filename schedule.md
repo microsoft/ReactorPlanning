@@ -18,7 +18,7 @@ Each month and week is driven by a particular theme, such as [.NET](https://dotn
 |  | Aug 31 - Sep 3 | Typescript | @geektrainer |  |
 |  | September 7-10 | Rust | @meaghanlewis | Labor Day - Monday Sept 7 - No stream |
 |  | September 14-17 | DevOps | @sguthals |  |
-|  | September 21-25 | Azure Static Web Apps | @geektrainer | No streams this week because of Ignite conference |
+|  | September 21-25 | Azure Static Web Apps | @geektrainer | |
 |  | Sep 28 - Oct 1 | Blockchain | @meaghanlewis |  |
 | Ocotber - Open Source October |  |  |  |  |
 |  | October 5-8 | Visual Studio Code | @meaghanlewis |  |
