@@ -30,6 +30,8 @@ It's time to go live! Deep breath - you've got this! Just a couple of last notes
 ## Closing
 
 - Thank everyone
+- Share the survey and event code (this will be provided to you)
+  - Consider putting your moderator in charge of this!
 - Highlight the [Reactor YouTube channel](https://www.youtube.com/microsoftreactor)
 - Highlight any additional resources you want to share
 - You're welcome to plug your social media handles

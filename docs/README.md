@@ -35,7 +35,7 @@ The final steps to preparing to stream is to set the scene. This includes both y
 - Double check your lighting!
 - Practice talking into the void
 - 100-200 level content; don't assume people meet pre-requisites
-- Ensure you have a mentor to help answer questions
+- Ensure you have a moderator to help answer questions
 - Have great demos!
 - Tweet out links to your session (or whatever other social media you may use)
 
