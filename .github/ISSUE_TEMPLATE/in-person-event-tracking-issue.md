@@ -36,13 +36,12 @@ Additional Resources:
 - [ ] RCT does a review of title and description
 - [ ] RCT moves the issue to the __Ready for Marketing__ column
 - [ ] RCT informs the Reactor Marketing Team of the new event information
-- [ ] If content is Reactor provided, RCT adds links to content to the [In-Person README](https://github.com/microsoft/Reactors/tree/master/In-Person%20Events) 
 - [ ] RCT provides speaker with assets (e.g. slides, overlays) and the survey information
 - [ ] If content is Reactor provided, RCT meets with Speaker to review content
 - [ ] RCT moves the issue to the __Event Preparation In Progress__ column
 
 ## 2 Weeks Prior  *(Done in /microsoft/Reactors)*
-- [ ] If content is Speaker provided, Speaker opens a PR with the new content for the event to the [customer-facing Reactor repo's In-Person README](https://github.com/microsoft/Reactors/tree/master/In-Person%20Events) and adds the _content-development_ and _in-person-local-event_ tags to the PR.
+- [ ] If content is new and Speaker provided, Speaker opens a PR with the new content for the event to the [[workshop-resources directory](https://github.com/microsoft/Reactors/blob/main/workshop-resources/README.md) and adds the _content-development_ and _in-person-local-event_ tags to the PR.
 - [ ] Speaker adds the RCT assigned to the issue as the reviewer when it is ready for review/merge
 - [ ] RCT reviews, approves, and merges the changes
 
