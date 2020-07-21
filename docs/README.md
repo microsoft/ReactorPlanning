@@ -48,7 +48,7 @@ Now that you've got everything done, you're ready to go live! We've put together
 - Start the stream about 5 minutes beforehand with the "starting soon" scene
   - Make sure your mic is turned **off**!
 - Start your presentation about 1 minute after the scheduled time
-  - Make sure your mice is turned **on**!
+  - Make sure your mic is turned **on**!
 - Look at the camera!
 - Maintain a light, conversational tone
 - Repeat all questions before you answer them

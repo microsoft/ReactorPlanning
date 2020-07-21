@@ -1,6 +1,6 @@
 # Before the stream
 
-Delivering an online session involves a little more than taking one you've done in person and talking into a camera. You want to consider the environment from which you'll be speaking, make sure it fits the general tone of the Reactors, and you account for questions.
+Delivering an online session involves a little more than talking one you've done in person and talking into a camera. You want to consider the environment from which you'll be speaking, make sure it fits the general tone of the Reactors, and you account for questions.
 
 ## Physical environment
 

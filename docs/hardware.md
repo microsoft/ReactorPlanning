@@ -1,6 +1,6 @@
 # Hardware
 
-Streaming **does not** necessarily require purchasing new hardware. However, a couple of items, in particular a [microphone](#audio), can raise the quality of your stream for a relatively small investment.
+Streaming **does not** necessarily require purchasing new hardware. However, a couple of items, in particular a [microphone](#Audio), can raise the quality of your stream for a relatively small investment.
 
 This guide was written during the COVID pandemic. As a result, the hardware listed below may be a challenge to source or purchase at a reasonable price. Keep in mind you may be able to expense hardware; always ask your manager.
 
