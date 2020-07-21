@@ -80,3 +80,7 @@ When putting together your presentation, make sure you allow for introductions a
 - Simplifying the content is OK
   - If you're not sure if something is too advanced for the audience, it probably is
   - Err on the side or reinforcing knowledge than confusing the viewer
+
+## Tell the world!!
+
+Imagine throwing a party and having nobody show up! We've asked you to present because you're an expert and people want to listen to you. As such, you can help bring people to your stream by tweeting or posting the Meetup link provided. When you're about to go live don't forget to tweet/post the link to the stream.

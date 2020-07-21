@@ -1,8 +1,6 @@
 # Delivering your session
 
-It's time to go live! Deep breath - you've got this!
-
-Couple of last notes to keep in mind
+It's time to go live! Deep breath - you've got this! Just a couple of last notes to keep in mind.
 
 ## Getting started
 
@@ -17,7 +15,7 @@ Couple of last notes to keep in mind
     - Set pre-requisites for the audience
     - Consider touching on topics you won't cover
 
-### During the session
+## During the session
 
 - Answer any questions you feel comfortable based on your [questions plan](./preparing-your-session.md#Preparing-for-questions)
   - Always repeat the question as not everyone may have seen it
@@ -29,11 +27,11 @@ Couple of last notes to keep in mind
   - Speaking into the void is a little weird
   - You provide all of the energy
 
-### Closing
+## Closing
 
-- Thank ever
-- Highlight the [Reactor YouTube channel](https://www.youtube.com/channel/UCkm6luGCS3hD25jcEhvRMIA)
-- Highlight any additional resources
+- Thank everyone
+- Highlight the [Reactor YouTube channel](https://www.youtube.com/microsoftreactor)
+- Highlight any additional resources you want to share
 - You're welcome to plug your social media handles
 - Display the closing slide for one minute
 - End the stream

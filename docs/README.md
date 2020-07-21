@@ -25,18 +25,23 @@ While no special hardware is required, a couple of pieces can help elevate your 
 - Consider an upgraded camera
 - Don't be back-lit
 
-## Preparing your session
+## Preparing for your session
 
-The final steps to preparing to stream is to set the scene. This includes both your physical space and tone and timber. We have a set of [streaming guidelines](digital-stream-guidance.md) to help you hit the right notes.
+The final steps to preparing to stream is to set the scene. This includes both your physical space and tone and timber. Here's a few tips to help [prepare your stream](./peparing-your-session.md).
 
 ### Session prep tl;dr
 
 - Take a minute to look at your backdrop for streaming
+- Double check your lighting!
+- Practice talking into the void
 - 100-200 level content; don't assume people meet pre-requisites
 - Ensure you have a mentor to help answer questions
+- Have great demos!
 - Tweet out links to your session (or whatever other social media you may use)
 
 ## Streaming
+
+Now that you've got everything done, you're ready to go live! We've put together a bit of [help for the day of streaming](./delivering-your-session.md), including the overall run of show.
 
 ### Streaming tl;dr
 
