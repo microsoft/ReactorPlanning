@@ -4,7 +4,7 @@ Want to stream but don't know where to start? We've got you covered! This guide 
 
 ## Software
 
-The key piece of software you'll need if streaming directly is [OBS Studio](https://obsproject.com/). OBS Studio (or simply OBS) is a powerful OSS streaming suite, and gives you complete control over building the scene for your viewers. Admittedly, OBS Studio can be a little intimidating for anyone who hasn't worked with video editing software in the past.
+The key piece of software you'll need if streaming directly is [OBS Studio](https://obsproject.com/). OBS Studio (or simply OBS) is a powerful, open source streaming suite, and gives you complete control over building the scene for your viewers. Admittedly, OBS Studio can be a little intimidating for anyone who hasn't worked with video editing software in the past.
 
 - [Installing and configuring OBS for streaming](./obs-install.md)
 - [Installing and configuring the Reactor scene collection](./obs-scenes.md) (in progress)
