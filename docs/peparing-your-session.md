@@ -26,6 +26,7 @@ Unlike an in-person event, you won't receive immediate feedback from your audien
 - You may find your timing will be different than an in-person event
   - Some speakers talk faster because there is no audience to interrupt them
   - Some speakers talk more because there is no audience to interrupt them
+  - Some speakers talk more slowly because there is no audience to provide feedback that they've understood
 - Practice presenting to the camera
   - Will help get you comfortable talking to a camera
     - Remember you will be providing all of the energy for the presentation
@@ -33,9 +34,9 @@ Unlike an in-person event, you won't receive immediate feedback from your audien
 
 ### Plan for questions
 
-Presenting while keeping an eye on the chat window is a skill which takes time to develop. It's always recommended to have a mentor in the chat to answer common questions (like links to docs or other videos), handle the easy questions, or anything off topic. Even with a mentor, you will want to have a strategy for handling questions. Some options:
+Presenting while keeping an eye on the chat window is a skill which takes time to develop. It's always recommended to have a moderator in the chat to answer common questions (like links to docs or other videos), handle the easy questions, or anything off topic. Even with a mentor, you will want to have a strategy for handling questions. Some options:
 
-- **Easiest** Let the mentor answer all questions while you present
+- **Easiest** Let the moderator answer all questions while you present
 - **Intermediate** Pause at specific times to look through the chat feed for any questions (it's totally OK to say out loud you're going to look for questions)
   - Please note, your stream will likely be on a 30 second delay, so if you're looking for live interaction it will take a bit of time
 - **Advanced** Keep an eye on the chat window while presenting and answer questions as you feel comfortable

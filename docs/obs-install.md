@@ -1,6 +1,6 @@
 # OBS Studio
 
-OBS Studio is a professional level streaming suite. OBS Studio (or just OBS) gives you the ability to build various scenes, control your camera and microphone, choose what to share, and broadcast to numerous platforms including Twitch, YouTube and Teams Live.
+[OBS Studio](https://obsproject.com/) is a professional level streaming suite. OBS Studio (or just OBS) gives you the ability to build various scenes, control your camera and microphone, choose what to share, and broadcast to numerous platforms including Twitch, YouTube, and Teams Live.
 
 ## Before you get started
 

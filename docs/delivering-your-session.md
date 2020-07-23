@@ -5,7 +5,7 @@ It's time to go live! Deep breath - you've got this! Just a couple of last notes
 ## Getting started
 
 - Begin your stream five minutes before your scheduled start time with the **Starting soon** scene
-  - Make sure your mic is muted :-D
+  - Make sure your mic is muted within OBS :-D
 - Start with introductions
   - Introduce yourself and any co-hosts
     - Try to limit the amount of time spent on introductions
@@ -25,7 +25,7 @@ It's time to go live! Deep breath - you've got this! Just a couple of last notes
   - You may forget something or where you are
 - Bring the energy
   - Speaking into the void is a little weird
-  - You provide all of the energy
+  - You provide ALL of the energy
 
 ## Closing
 
@@ -33,6 +33,7 @@ It's time to go live! Deep breath - you've got this! Just a couple of last notes
 - Share the survey and event code (this will be provided to you)
   - Consider putting your moderator in charge of this!
 - Highlight the [Reactor YouTube channel](https://www.youtube.com/microsoftreactor)
+  - Video recordings of this stream will be available by the Saturday of the week you streamed
 - Highlight any additional resources you want to share
 - You're welcome to plug your social media handles
 - Display the closing slide for one minute

@@ -33,9 +33,10 @@ The final steps to preparing to stream is to set the scene. This includes both y
 
 - Take a minute to look at your backdrop for streaming
 - Double check your lighting!
-- Practice talking into the void
+- Practice talking into the void while looking at a camera and not your monitor
 - 100-200 level content; don't assume people meet pre-requisites
 - Ensure you have a moderator to help answer questions
+- Equip your moderator with links that will likely be useful to share in the chat
 - Have great demos!
 - Tweet out links to your session (or whatever other social media you may use)
 
@@ -46,11 +47,12 @@ Now that you've got everything done, you're ready to go live! We've put together
 ### Streaming tl;dr
 
 - Start the stream about 5 minutes beforehand with the "starting soon" scene
-  - Make sure your mic is turned **off**!
+  - Make sure your mic is turned **off** in OBS!
 - Start your presentation about 1 minute after the scheduled time
-  - Make sure your mic is turned **on**!
+  - Make sure your mic is turned **on** in OBS!
 - Look at the camera!
 - Maintain a light, conversational tone
 - Repeat all questions before you answer them
   - Bonus points for saying the name of the person who asked
+- Leave time to answer questions at the end
 - DON'T PANIC!!
