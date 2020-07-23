@@ -1,6 +1,6 @@
 # Streaming guide
 
-Want to stream but don't know where to start? We've got you covered! This guide is designed to help get you started with streaming. The only assumed knowledge is experience with conference calls and sharing your desktop/app on an app like Teams, Skype or Slack. Please note, you will likely need to spend a couple of hours getting a base setup put together.
+Want to stream but don't know where to start? We've got you covered! This guide is designed to help get you started with streaming. The only assumed knowledge is experience with conference calls and sharing your desktop/app on an app like Teams, Skype, or Slack. Please note, you will likely need to spend a couple of hours getting a base setup put together.
 
 ## Software
 
