@@ -21,7 +21,7 @@ While no special hardware is required, a couple of pieces can help elevate your 
 
 - Have a good mic
   - The one in your camera/laptop isn't going to be high quality
-  - Chances are the one in your headset isn't either
+  - Chances are the one in your headset is ok enough if you're only planning on streaming once, but not high quality
 - Consider an upgraded camera
 - Don't be back-lit
 
