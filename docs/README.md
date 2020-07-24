@@ -27,7 +27,7 @@ While no special hardware is required, a couple of pieces can help elevate your 
 
 ## Preparing for your session
 
-The final steps to preparing to stream is to set the scene. This includes both your virtual and physical space. Here's a few tips to help [prepare your stream](./peparing-your-session.md).
+The final steps to preparing to stream is to set the scene. This includes both your virtual and physical space. Here's a few tips to help [prepare your stream](./peparing-your-session.md). And it's always worthwhile to review some [general good presentation tips](./general-presentation-tips.md).
 
 ### Session prep tl;dr
 
