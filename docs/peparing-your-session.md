@@ -21,7 +21,7 @@ Delivering an online presentation focuses on different skills than an in person 
 
 ### Talking into the void
 
-Unlike an in-person event, you won't receive immediate feedback from your audience about how things are going. This can be a bit unsettling the first time you deliver a session, but it will become more comfortable with experience.
+Unlike an in-person event, you won't receive immediate feedback from your audience about how things are going. This is both because there is a delay from when you say something to when it is broadcast, and because the only feedback you will receive is through chat comments instead of the facial reactions of your audience. This can be a bit unsettling the first time you deliver a session, but it will become more comfortable with experience.
 
 - You may find your timing will be different than an in-person event
   - Some speakers talk faster because there is no audience to interrupt them
