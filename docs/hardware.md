@@ -8,6 +8,8 @@ This guide was written during the COVID pandemic. As a result, the hardware list
 
 Ironically, audio is more important than video when streaming. Viewers are typically less concerned with lower quality video than they are audio. Also, the core of the information being shared during a video is conveyed via audio as the speaker is explaining various concepts.
 
+Furthermore, if your bandwidth is low you should opt to turn off your video, but you will always need your audio.
+
 As a general rule, microphones built into cameras and laptops are inadequate for streaming purposes. Microphones in headphones are generally acceptable, but it's strongly recommended you do a quick recording to listen to how it sounds.
 
 Common options (All prices US):
