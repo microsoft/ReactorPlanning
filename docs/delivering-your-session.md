@@ -23,6 +23,7 @@ It's time to go live! Deep breath - you've got this! Just a couple of last notes
 - Roll with the punches; mistakes happen
   - Demos may fail
   - You may forget something or where you are
+  - Not everyone will resonate with this particularly stream, that's OK!
 - Bring the energy
   - Speaking into the void is a little weird
   - You provide ALL of the energy
