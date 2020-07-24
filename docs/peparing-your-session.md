@@ -7,7 +7,7 @@ Delivering an online session involves a little more than changing what you're lo
 While you can stream from any room you like, there are a couple of core minimum requirements you will want to consider.
 
 - Ensure you are lit from above or in front of you; back-lighting will cause you to be too dark
-  - Special lighting is not required, but you may want to consider it (details below)
+  - Special lighting is not required, but you may want to consider it (see [lighting recommendations](hardware.md#Lighting))
 - You will need a quiet room, preferably with a door
   - Soundproofing not needed
 - Have a clean backdrop behind you; again, nothing fancy
