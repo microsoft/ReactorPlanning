@@ -17,7 +17,7 @@ It's time to go live! Deep breath - you've got this! Just a couple of last notes
 
 ## During the session
 
-- Answer any questions you feel comfortable based on your [questions plan](./preparing-your-session.md#Preparing-for-questions)
+- Answer any questions you feel comfortable based on your [questions plan](./preparing-your-session.md#Plan-for-questions)
   - Always repeat the question as not everyone may have seen it
   - Say the name of the person who asked the question
 - Roll with the punches; mistakes happen
